@@ -11,7 +11,7 @@ else {
     port: 3306,
     user: "root",
     password: "0201123rR$",
-    database: "todos_db"
+    database: "Burger"
   });
 }
 
